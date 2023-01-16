@@ -1,0 +1,18 @@
+
+html{
+    font-family: sans-serif;
+}
+
+.semester4{
+    border: 2px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+    margin: auto;
+    width: 60%;
+    margin-top: 40px;
+}
+
+a{
+    text-decoration: none;
+}
+
